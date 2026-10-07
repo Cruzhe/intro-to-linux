@@ -1,3 +1,4 @@
-# intro-to-linux
+Each different branch in this repository represents a lab that I completed, updated for weeks 1-5.
 
-Lab 1 I installed Virtual box and setup ubuntu inside the virtual machine
+During lab 1 I installed ubuntu inside virtual box
+
