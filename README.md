@@ -1,5 +1,5 @@
 # Overview 
-## Each different branch in this repository represents a lab that I completed, updated for weeks 1-5.
+## Each different branch in this repository represents a lab that I completed, *updated for Labs 1-5.*
 
 Lab #1: Installing and Using Linux
 
