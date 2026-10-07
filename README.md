@@ -1,3 +1,11 @@
 # intro-to-linux
 
-Lab 1 I installed Virtual box and setup ubuntu inside the virtual machine
+# intro-to-linux
+
+## Lab Execution & Enviroment Verification
+
+The uploaded screenshots demonstrate successful lab execution and enviroment validation:
+
+* **Creating and Managing Directories
+* **Managing Text Files
+
