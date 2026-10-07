@@ -1,12 +1,12 @@
 # intro-to-linux
 
-## Lab Execution & Enviroment Verification
+## Lab Execution & Environment Verification
 
-The uploaded screenshots demonstrate successful lab execution and enviroment validation:
+The uploaded screenshots demonstrate successful lab execution and environment validation:
 
 * **Basics Of Redirection**
 * **Redirection Using Pipeline Commands**
-* **Isuing Multiple Unix/Linux Commands**
+* **Issuing Multiple Unix/Linux Commands**
 
 
 
