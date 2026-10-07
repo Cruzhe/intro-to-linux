@@ -1,24 +1,9 @@
-# Overview 
-## Each different branch in this repository represents a lab that I completed, *updated for Labs 1-5.*
+# intro-to-linux
 
-Lab #1: Installing and Using Linux
+## Lab Execution & Environment Verification
 
-Lab #2: Unix and Linux File Management
+The uploaded screenshots demonstrate successful lab execution and environment validation:
 
-Lab #3: Advanced File Management and Quoting Special Characters
-
-Lab #4: Redirection
-
-Lab #5: Numbering Conversion,File Permissions & Introduction to Shell Scripting
-
-Lab #6: File Transfer and Sending Email Messages *(too be completed)* 
-
-Lab #7: Process Management, Aliases & Shell Scripting *(too be completed)* 
-
-Lab #8: Regular Expressions *(too be completed)* 
-
-Lab #9: Sed and Awk Utilities *(too be completed)* 
-
-Lab #10: Advanced Shell Scripting *(too be completed)* 
-
+* **Downloading and Installing Linux**
+* **Post Installation Tasks**
 
