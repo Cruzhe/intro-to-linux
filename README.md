@@ -1,6 +1,6 @@
 # intro-to-linux
 
-## Lab Execution & Enviroment Verification
+## Lab Execution & Environment Verification
 
 The uploaded screenshots demonstrate successful lab execution and environment validation:
 
